@@ -1,0 +1,10 @@
+[project]
+name = "linode-ddns"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "linode-dynamic-dns>=0.7.0",
+    "pip>=26.0.1",
+]
