@@ -23,7 +23,7 @@ docker run \
 version: '3'
 services:
 
-  linode-dyndns:
+  linode-ddns:
     image: ghcr.io/andrewpk/linode-ddns:latest
     container_name: linode-ddns
     restart: always
